@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kshxg03
 - 👀 I’m interested in coding, sports, business
 - 🌱 I’m currently learning full-stack development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (kshitizshrestha2003@gmail.com)
 
 <!---
